@@ -1,4 +1,5 @@
 # chip8
-Chip8 interpreter library believe it or not.
+Another Chip8 interpreter!
 
-### test
+##Structure
+Whole thing is contained in a class called "Chip8".
